@@ -1,0 +1,3 @@
+* learning autosar, a hard way...
+* 学习笔记
+- [[https://greyzhang.blog.csdn.net/article/details/117002051][609_AUTOSAR版本发布信息文档阅读]]
