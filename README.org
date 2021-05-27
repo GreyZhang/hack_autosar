@@ -2,3 +2,4 @@
 * 学习笔记
 - [[https://greyzhang.blog.csdn.net/article/details/117002051][609_AUTOSAR版本发布信息文档阅读]]
 - [[https://greyzhang.blog.csdn.net/article/details/117093785][610_AUTOSAR_RS_Main文件阅读]]
+- [[https://greyzhang.blog.csdn.net/article/details/117340100][611_AUTOSAR_RS_Main_关于运行时环境的阅读理解]]
