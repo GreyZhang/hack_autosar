@@ -4,3 +4,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/117093785][610_AUTOSAR_RS_Main文件阅读]]
 - [[https://greyzhang.blog.csdn.net/article/details/117340100][611_AUTOSAR_RS_Main_关于运行时环境的阅读理解]]
 - [[https://greyzhang.blog.csdn.net/article/details/117391748][612_AUTOSAR_RS_Main_AUTOSAR的方法论]]
+- [[https://greyzhang.blog.csdn.net/article/details/117407015][613_AUTOSAR_RS_Main文档阅读_非功能性需求、测试以及处理]]
