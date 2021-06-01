@@ -7,3 +7,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/117407015][613_AUTOSAR_RS_Main文档阅读_非功能性需求、测试以及处理]]
 - [[https://greyzhang.blog.csdn.net/article/details/117407756][614_AUTOSAR_RS_Features阅读_软件架构部分]]
 - [[https://greyzhang.blog.csdn.net/article/details/117432946][615_AUTOSAR_RS_Features阅读_操作系统部分]]
+- [[https://greyzhang.blog.csdn.net/article/details/117456572][616_AUTOSAR_RS_Features阅读_RTE部分]]
