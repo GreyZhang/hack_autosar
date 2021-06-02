@@ -9,3 +9,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/117432946][615_AUTOSAR_RS_Features阅读_操作系统部分]]
 - [[https://greyzhang.blog.csdn.net/article/details/117456572][616_AUTOSAR_RS_Features阅读_RTE部分]]
 - [[https://greyzhang.blog.csdn.net/article/details/117485882][617_AUTOSAR_RS_Features阅读_服务部分]]
+- [[https://greyzhang.blog.csdn.net/article/details/117487021][618_AUTOSAR_RS_Features阅读_模式管理]]
