@@ -11,3 +11,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/117485882][617_AUTOSAR_RS_Features阅读_服务部分]]
 - [[https://greyzhang.blog.csdn.net/article/details/117487021][618_AUTOSAR_RS_Features阅读_模式管理]]
 - [[https://greyzhang.blog.csdn.net/article/details/117537002][619_AUTOSAR_RS_Features阅读_通过总线通信]]
+- [[https://greyzhang.blog.csdn.net/article/details/117537306][620_AUTOSAR_RS_Features阅读_通信总线]]
