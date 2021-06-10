@@ -14,3 +14,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/117537306][620_AUTOSAR_RS_Features阅读_通信总线]]
 - [[https://greyzhang.blog.csdn.net/article/details/117607323][621_AUTOSAR_RS_Features阅读_存储栈]]
 - [[https://greyzhang.blog.csdn.net/article/details/117792434][622_AUTOSAR_RS_Features阅读_MCAL以及IO]]
+- [[https://greyzhang.blog.csdn.net/article/details/117792896][623_AUTOSAR_RS_Features阅读_安全验证]]
