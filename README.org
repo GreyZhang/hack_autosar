@@ -16,3 +16,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/117792434][622_AUTOSAR_RS_Features阅读_MCAL以及IO]]
 - [[https://greyzhang.blog.csdn.net/article/details/117792896][623_AUTOSAR_RS_Features阅读_安全验证]]
 - [[https://greyzhang.blog.csdn.net/article/details/117793305][624_AUTOSAR_RS_Features阅读_安全]]
+- [[https://greyzhang.blog.csdn.net/article/details/117843394][625_AUTOSAR_RS_Features阅读_库]]
