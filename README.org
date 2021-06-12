@@ -19,3 +19,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/117843394][625_AUTOSAR_RS_Features阅读_库]]
 - [[https://greyzhang.blog.csdn.net/article/details/117843501][626_AUTOSAR_RS_Features阅读_诊断与错误处理]]
 - [[https://greyzhang.blog.csdn.net/article/details/117844215][627_AUTOSAR_RS_Features阅读_测试与调试]]
+- [[https://greyzhang.blog.csdn.net/article/details/117844299][628_AUTOSAR_RS_Features阅读_集成、移植以及文档]]
