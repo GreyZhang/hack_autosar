@@ -1,10 +1,12 @@
 * learning autosar, a hard way...
 * 学习笔记
+*** AUTOSAR_RS_Main
 - [[https://greyzhang.blog.csdn.net/article/details/117002051][609_AUTOSAR版本发布信息文档阅读]]
 - [[https://greyzhang.blog.csdn.net/article/details/117093785][610_AUTOSAR_RS_Main文件阅读]]
 - [[https://greyzhang.blog.csdn.net/article/details/117340100][611_AUTOSAR_RS_Main_关于运行时环境的阅读理解]]
 - [[https://greyzhang.blog.csdn.net/article/details/117391748][612_AUTOSAR_RS_Main_AUTOSAR的方法论]]
 - [[https://greyzhang.blog.csdn.net/article/details/117407015][613_AUTOSAR_RS_Main文档阅读_非功能性需求、测试以及处理]]
+*** AUTOSAR_RS_Features
 - [[https://greyzhang.blog.csdn.net/article/details/117407756][614_AUTOSAR_RS_Features阅读_软件架构部分]]
 - [[https://greyzhang.blog.csdn.net/article/details/117432946][615_AUTOSAR_RS_Features阅读_操作系统部分]]
 - [[https://greyzhang.blog.csdn.net/article/details/117456572][616_AUTOSAR_RS_Features阅读_RTE部分]]
