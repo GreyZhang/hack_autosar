@@ -24,3 +24,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/117844299][628_AUTOSAR_RS_Features阅读_集成、移植以及文档]]
 ** AUTOSAR_RS_ProjectObjectives
 - [[https://greyzhang.blog.csdn.net/article/details/117912269][629_AUTOSAR_RS_ProjectObjectives文档阅读]]
+** AUTOSAR_TR_PredefinedNames
+- [[https://greyzhang.blog.csdn.net/article/details/117913332][630_AUTOSAR_TR_PredefinedNames文档阅读]]
