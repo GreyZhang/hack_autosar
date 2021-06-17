@@ -30,3 +30,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/117934319][631_AUTOSAR_AUTOSAR_TR_Glossary_文档阅读1]]
 - [[https://greyzhang.blog.csdn.net/article/details/117969594][632_AUTOSAR_AUTOSAR_TR_Glossary_文档阅读2]]
 - [[https://greyzhang.blog.csdn.net/article/details/109411266][633_AUTOSAR_AUTOSAR_TR_Glossary_文档阅读3]]
+- [[https://greyzhang.blog.csdn.net/article/details/118003387][634_AUTOSAR_AUTOSAR_TR_Glossary_文档阅读4]]
