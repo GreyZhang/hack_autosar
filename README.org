@@ -42,3 +42,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/118121697][643_AUTOSAR_AUTOSAR_TR_Glossary_文档阅读13]]
 ** AUTOSAR_EXP_VFB
 - [[https://greyzhang.blog.csdn.net/article/details/118164365][644_AUTOSAR_EXP_VFB文档阅读1]]
+- [[https://greyzhang.blog.csdn.net/article/details/118279678][645_AUTOSAR_EXP_VFB文档阅读2]]
