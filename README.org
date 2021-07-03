@@ -48,3 +48,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/118345605][648_AUTOSAR_EXP_VFB文档阅读5]]
 - [[https://greyzhang.blog.csdn.net/article/details/118345918][649_AUTOSAR_EXP_VFB文档阅读6]]
 - [[https://greyzhang.blog.csdn.net/article/details/118400742][650_AUTOSAR_EXP_VFB文档阅读7]]
+- [[https://greyzhang.blog.csdn.net/article/details/118446018][651_AUTOSAR_EXP_VFB文档阅读8]]
