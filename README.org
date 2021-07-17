@@ -1,5 +1,7 @@
 * learning autosar, a hard way...
 * 学习笔记
+** 整体资料梳理
+- [[https://greyzhang.blog.csdn.net/article/details/118859727][667_AUTOSAR目录框架梳理以及初步的计划]]
 ** AUTOSAR_RS_Main
 - [[https://greyzhang.blog.csdn.net/article/details/117002051][609_AUTOSAR版本发布信息文档阅读]]
 - [[https://greyzhang.blog.csdn.net/article/details/117093785][610_AUTOSAR_RS_Main文件阅读]]
