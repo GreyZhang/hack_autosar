@@ -68,3 +68,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/118859062][666_AUTOSAR_EXP_VFB文档阅读23]]
 ** AUTOSAR_RS_MethodologyAndTemplatesGeneral
 - [[https://greyzhang.blog.csdn.net/article/details/118860136][668_AUTOSAR_RS_MethodologyAndTemplatesGeneral文件梳理]]
+** AUTOSAR_TR_AutosarModelConstraints
+- [[https://greyzhang.blog.csdn.net/article/details/118863447][669_AUTOSAR_TR_AutosarModelConstraints文档阅读梳理]]
