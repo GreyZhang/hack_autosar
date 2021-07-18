@@ -75,4 +75,6 @@
 - [[https://greyzhang.blog.csdn.net/article/details/118874344][671_AUTOSAR_RS_Methodology_20190826_145121文档分析2]]
 - [[https://greyzhang.blog.csdn.net/article/details/118880521][672_AUTOSAR_RS_Methodology_20190826_145121文档分析3]]
 - [[https://greyzhang.blog.csdn.net/article/details/118882413][673_AUTOSAR_RS_Methodology_20190826_145121文档分析4]]
+** AUTOSAR_TR_Methodology
+- [[https://greyzhang.blog.csdn.net/article/details/118885084][674_AUTOSAR_TR_Methodology_文档阅读1]]
 
