@@ -78,4 +78,5 @@
 ** AUTOSAR_TR_Methodology
 - [[https://greyzhang.blog.csdn.net/article/details/118885084][674_AUTOSAR_TR_Methodology_文档阅读1]]
 - [[https://greyzhang.blog.csdn.net/article/details/118915109][675_AUTOSAR_TR_Methodology_文档阅读2]]
+- [[https://greyzhang.blog.csdn.net/article/details/118916404][676_AUTOSAR_TR_Methodology_文档阅读3]]
 
