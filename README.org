@@ -82,4 +82,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/118917075][677_AUTOSAR_TR_Methodology_文档阅读4]]
 - [[https://greyzhang.blog.csdn.net/article/details/118945338][678_AUTOSAR_TR_Methodology_文档阅读5_系统视图以及工作流程]]
 - [[https://greyzhang.blog.csdn.net/article/details/118946783][679_AUTOSAR_TR_Methodology_文档阅读6_开发抽象系统描述]]
+- [[https://greyzhang.blog.csdn.net/article/details/118947117][680_AUTOSAR_TR_Methodology_文档阅读7_VFB系统描述开发]]
 
