@@ -86,4 +86,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119011225][682_AUTOSAR_TR_Methodology_文档阅读8_SWC开发]]
 - [[https://greyzhang.blog.csdn.net/article/details/119011599][683_AUTOSAR_TR_Methodology_文档阅读9_APP开发以及特殊软件组件使用案例]]
 - [[https://greyzhang.blog.csdn.net/article/details/119045004][684_AUTOSAR_TR_Methodology_文档阅读10_设计系统以及子系统概述]]
+- [[https://greyzhang.blog.csdn.net/article/details/119045446][685_AUTOSAR_TR_Methodology_文档阅读11_设计系统]]
 
