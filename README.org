@@ -93,4 +93,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119084275][689_AUTOSAR_TR_Methodology_文档阅读15_为ECU集成软件]]
 - [[https://greyzhang.blog.csdn.net/article/details/119086170][690_AUTOSAR_TR_Methodology_文档阅读16_RTE配置以及准备和更新ECU配置]]
 - [[https://greyzhang.blog.csdn.net/article/details/119086870][691_AUTOSAR_TR_Methodology_文档阅读17_时序建模以及RTE和BSW生成]]
+- [[https://greyzhang.blog.csdn.net/article/details/119087678][692_AUTOSAR_TR_Methodology_文档阅读18_预编译阶段以及链接阶段配置]]
 
