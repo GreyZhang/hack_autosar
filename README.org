@@ -89,4 +89,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119045446][685_AUTOSAR_TR_Methodology_文档阅读11_设计系统]]
 - [[https://greyzhang.blog.csdn.net/article/details/119081918][686_AUTOSAR_TR_Methodology_文档阅读12_生成ECU提取与设计子系统]]
 - [[https://greyzhang.blog.csdn.net/article/details/119082504][687_AUTOSAR_TR_Methodology_文档阅读13_生成ECU提取_设计转换器与系统级安全设计]]
+- [[https://greyzhang.blog.csdn.net/article/details/119083043][688_AUTOSAR_TR_Methodology_文档阅读14_基础软件开发]]
 
