@@ -95,4 +95,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119086870][691_AUTOSAR_TR_Methodology_文档阅读17_时序建模以及RTE和BSW生成]]
 - [[https://greyzhang.blog.csdn.net/article/details/119087678][692_AUTOSAR_TR_Methodology_文档阅读18_预编译阶段以及链接阶段配置]]
 - [[https://greyzhang.blog.csdn.net/article/details/119088457][693_AUTOSAR_TR_Methodology_文档阅读19_构建后阶段配置]]
+- [[https://greyzhang.blog.csdn.net/article/details/119121446][694_AUTOSAR_TR_Methodology_文档阅读20_组件以及服务]]
 
