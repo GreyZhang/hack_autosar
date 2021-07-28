@@ -97,4 +97,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119088457][693_AUTOSAR_TR_Methodology_文档阅读19_构建后阶段配置]]
 - [[https://greyzhang.blog.csdn.net/article/details/119121446][694_AUTOSAR_TR_Methodology_文档阅读20_组件以及服务]]
 - [[https://greyzhang.blog.csdn.net/article/details/119121816][695_AUTOSAR_TR_Methodology_文档阅读21_标定概述]]
+- [[https://greyzhang.blog.csdn.net/article/details/119192102][696_AUTOSAR_TR_Methodology_文档阅读22_存储映射]]
 
