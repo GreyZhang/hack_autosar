@@ -99,4 +99,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119121816][695_AUTOSAR_TR_Methodology_文档阅读21_标定概述]]
 - [[https://greyzhang.blog.csdn.net/article/details/119192102][696_AUTOSAR_TR_Methodology_文档阅读22_存储映射]]
 - [[https://greyzhang.blog.csdn.net/article/details/119193036][697_AUTOSAR_TR_Methodology_文档阅读23_E2E以及诊断提取]]
+- [[https://greyzhang.blog.csdn.net/article/details/119282757][702_AUTOSAR_TR_Methodology_文档阅读24_快速原型]]
 
