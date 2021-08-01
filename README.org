@@ -103,4 +103,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119282848][703_AUTOSAR_TR_Methodology_文档阅读25_安全扩展]]
 - [[https://greyzhang.blog.csdn.net/article/details/119282973][704_AUTOSAR_TR_Methodology_文档阅读26_变体处理_一]]
 - [[https://greyzhang.blog.csdn.net/article/details/119283078][705_AUTOSAR_TR_Methodology_文档阅读26_变体处理_二]]
+- [[https://greyzhang.blog.csdn.net/article/details/119300651][706_AUTOSAR_TR_Methodology_文档阅读26_变体处理_三]]
 
