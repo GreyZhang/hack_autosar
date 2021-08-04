@@ -109,4 +109,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119392647][710_AUTOSAR_TR_Methodology_文档阅读29_基础软件]]
 ** AUTOSAR_TR_TimingAnalysis
 - [[https://greyzhang.blog.csdn.net/article/details/119392862][713_AUTOSAR_TR_TimingAnalysis1_基础信息梳理]]
+- [[https://greyzhang.blog.csdn.net/article/details/119392928][714_AUTOSAR_TR_TimingAnalysis2_时序分析的基本概念以及软件架构]]
 
