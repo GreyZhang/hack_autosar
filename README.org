@@ -111,4 +111,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119392862][713_AUTOSAR_TR_TimingAnalysis1_基础信息梳理]]
 - [[https://greyzhang.blog.csdn.net/article/details/119392928][714_AUTOSAR_TR_TimingAnalysis2_时序分析的基本概念以及软件架构]]
 - [[https://greyzhang.blog.csdn.net/article/details/119490478][716_AUTOSAR_TR_TimingAnalysis3_执行时间以及响应时间]]
+- [[https://greyzhang.blog.csdn.net/article/details/119491360][717_AUTOSAR_TR_TimingAnalysis4_时序分析的问题以及架构时序分析描述]]
 
