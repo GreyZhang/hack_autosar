@@ -114,4 +114,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119491360][717_AUTOSAR_TR_TimingAnalysis4_时序分析的问题以及架构时序分析描述]]
 - [[https://greyzhang.blog.csdn.net/article/details/119507402][718_AUTOSAR_TR_TimingAnalysis5_时序分析的需求分解方法]]
 - [[https://greyzhang.blog.csdn.net/article/details/119547470][719_AUTOSAR_TR_TimingAnalysis6_时序要求规范的语言]]
+- [[https://greyzhang.blog.csdn.net/article/details/119582221][720_AUTOSAR_TR_TimingAnalysis7_概念明确以及ECU整体分析示例]]
 
