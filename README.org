@@ -123,3 +123,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119766503][727_AUTOSAR_TR_TimingAnalysis13_整体需求分解以及报文参数计时分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/119767408][728_AUTOSAR_TR_TimingAnalysis14_时序保证以及基于trace的需求跟踪]]
 - [[https://greyzhang.blog.csdn.net/article/details/119767741][729_AUTOSAR_TR_TimingAnalysis15_熟悉分析的属性方法]]
+- [[https://greyzhang.blog.csdn.net/article/details/119768474][730_AUTOSAR_TR_TimingAnalysis16_协议规范以及时序属性定义和分类]]
