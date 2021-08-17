@@ -120,4 +120,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119704383][723_AUTOSAR_TR_TimingAnalysis10_时序分析验证2]]
 - [[https://greyzhang.blog.csdn.net/article/details/119704653][724_AUTOSAR_TR_TimingAnalysis11_时序分析验证3]]
 - [[https://greyzhang.blog.csdn.net/article/details/119709971][725_AUTOSAR_TR_TimingAnalysis12_网络时序分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/119766503][727_AUTOSAR_TR_TimingAnalysis13_整体需求分解以及报文参数计时分析]]
 
