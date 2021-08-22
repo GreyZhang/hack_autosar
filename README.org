@@ -127,3 +127,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119850438][731_AUTOSAR_TR_TimingAnalysis17_专用以及通用指标以及表征能力]]
 - [[https://greyzhang.blog.csdn.net/article/details/119850586][732_AUTOSAR_TR_TimingAnalysis18_专用以及通用的指标以及表征能力2]]
 - [[https://greyzhang.blog.csdn.net/article/details/119850676][733_AUTOSAR_TR_TimingAnalysis19_分析测试方法以及对比]]
+- [[https://greyzhang.blog.csdn.net/article/details/119850849][734_AUTOSAR_TR_TimingAnalysis20_负载率的确认]]
