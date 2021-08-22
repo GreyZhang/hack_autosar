@@ -125,3 +125,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119767741][729_AUTOSAR_TR_TimingAnalysis15_熟悉分析的属性方法]]
 - [[https://greyzhang.blog.csdn.net/article/details/119768474][730_AUTOSAR_TR_TimingAnalysis16_协议规范以及时序属性定义和分类]]
 - [[https://greyzhang.blog.csdn.net/article/details/119850438][731_AUTOSAR_TR_TimingAnalysis17_专用以及通用指标以及表征能力]]
+- [[https://greyzhang.blog.csdn.net/article/details/119850586][732_AUTOSAR_TR_TimingAnalysis18_专用以及通用的指标以及表征能力2]]
