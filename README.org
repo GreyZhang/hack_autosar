@@ -129,3 +129,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119850676][733_AUTOSAR_TR_TimingAnalysis19_分析测试方法以及对比]]
 - [[https://greyzhang.blog.csdn.net/article/details/119850849][734_AUTOSAR_TR_TimingAnalysis20_负载率的确认]]
 - [[https://greyzhang.blog.csdn.net/article/details/119857036][735_AUTOSAR_TR_TimingAnalysis21_响应时间的确认]]
+** AUTOSAR_TPS_GenericStructureTemplate
+- [[https://greyzhang.blog.csdn.net/article/details/119858126][736_AUTOSAR_TPS_GenericStructureTemplate1_概述信息]]
