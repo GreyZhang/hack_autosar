@@ -133,3 +133,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119858126][736_AUTOSAR_TPS_GenericStructureTemplate1_概述信息]]
 - [[https://greyzhang.blog.csdn.net/article/details/119866075][737_AUTOSAR_TPS_GenericStructureTemplate2_元模型的定义方法及架构]]
 - [[https://greyzhang.blog.csdn.net/article/details/119876948][738_AUTOSAR_TPS_GenericStructureTemplate3]]
+** AUTOSAR_TR_XMLPersistenceRules
+- [[https://greyzhang.blog.csdn.net/article/details/119877817][739_AUTOSAR_TR_XMLPersistenceRules文档阅读1_概述]]
