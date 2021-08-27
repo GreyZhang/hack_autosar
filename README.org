@@ -135,4 +135,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119876948][738_AUTOSAR_TPS_GenericStructureTemplate3]]
 ** AUTOSAR_TR_XMLPersistenceRules
 - [[https://greyzhang.blog.csdn.net/article/details/119877817][739_AUTOSAR_TR_XMLPersistenceRules文档阅读1_概述]]
-- [[https://greyzhang.blog.csdn.net/article/details/119961871][749_AUTOSAR_TR_XMLPersistenceRules文档阅读2]]
+- [[https://greyzhang.blog.csdn.net/article/details/119961871][749_AUTOSAR_TR_XMLPersistenceRules文档阅读2]]_XML设计规则
