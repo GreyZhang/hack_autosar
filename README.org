@@ -139,3 +139,4 @@
 ** AUTOSAR_RS_BSWModuleDescriptionTemplate
 - [[https://greyzhang.blog.csdn.net/article/details/120144871][753_AUTOSAR_RS_BSWModuleDescriptionTemplate1_概览以及参考]]
 - [[https://greyzhang.blog.csdn.net/article/details/120145590][754_AUTOSAR_RS_BSWModuleDescriptionTemplate2_需求梳理分析1]]
+- [[https://greyzhang.blog.csdn.net/article/details/120168428][755_AUTOSAR_RS_BSWModuleDescriptionTemplate3_需求梳理分析2]]
