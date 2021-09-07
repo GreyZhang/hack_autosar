@@ -142,3 +142,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120168428][755_AUTOSAR_RS_BSWModuleDescriptionTemplate3_需求梳理分析2]]
 - [[https://greyzhang.blog.csdn.net/article/details/120168552][756_AUTOSAR_RS_BSWModuleDescriptionTemplate4_需求梳理分析3]]
 - [[https://greyzhang.blog.csdn.net/article/details/120168868][757_AUTOSAR_RS_BSWModuleDescriptionTemplate5_基础软件调度模板描述]]
+- [[https://greyzhang.blog.csdn.net/article/details/120169053][758_AUTOSAR_RS_BSWModuleDescriptionTemplate6_资源以及模板需求]]
