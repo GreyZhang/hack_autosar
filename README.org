@@ -147,3 +147,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120169643][759_AUTOSAR_RS_DiagnosticExtractTemplate1_通用需求部分]]
 - [[https://greyzhang.blog.csdn.net/article/details/120189337][760_AUTOSAR_RS_DiagnosticExtractTemplate2_诊断服务部分]]
 - [[https://greyzhang.blog.csdn.net/article/details/120189827][761_AUTOSAR_RS_DiagnosticExtractTemplate3_事件处理以及对话和安全]]
+- [[https://greyzhang.blog.csdn.net/article/details/120190223][762_AUTOSAR_RS_ECUConfiguration1_模板需求]]
