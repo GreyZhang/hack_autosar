@@ -145,3 +145,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120169053][758_AUTOSAR_RS_BSWModuleDescriptionTemplate6_资源以及模板需求]]
 ** AUTOSAR_RS_DiagnosticExtractTemplate
 - [[https://greyzhang.blog.csdn.net/article/details/120169643][759_AUTOSAR_RS_DiagnosticExtractTemplate1_通用需求部分]]
+- [[https://greyzhang.blog.csdn.net/article/details/120189337][760_AUTOSAR_RS_DiagnosticExtractTemplate2_诊断服务部分]]
