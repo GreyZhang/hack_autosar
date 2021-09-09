@@ -153,3 +153,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120210405][765_AUTOSAR_RS_ECUConfiguration4_SWC以及参数配置和外部需求]]
 ** AUTOSAR_RS_ECUResourceTemplate
 - [[https://greyzhang.blog.csdn.net/article/details/120210815][766_AUTOSAR_RS_ECUResourceTemplate]]
+** AUTOSAR_RS_FeatureModelExchangeFormat
+- [[https://greyzhang.blog.csdn.net/article/details/120210397][767_AUTOSAR_RS_FeatureModelExchangeFormat1_特征模型交换格式用例1]]
