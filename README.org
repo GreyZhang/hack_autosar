@@ -150,3 +150,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120190223][762_AUTOSAR_RS_ECUConfiguration1_模板需求]]
 - [[https://greyzhang.blog.csdn.net/article/details/120190580][763_AUTOSAR_RS_ECUConfiguration2_模板需求2]]
 - [[https://greyzhang.blog.csdn.net/article/details/120209291][764_AUTOSAR_RS_ECUConfiguration3_客户端部分的需求]]
+- [[https://greyzhang.blog.csdn.net/article/details/120210405][765_AUTOSAR_RS_ECUConfiguration4_SWC以及参数配置和外部需求]]
