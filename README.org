@@ -156,3 +156,4 @@
 ** AUTOSAR_RS_FeatureModelExchangeFormat
 - [[https://greyzhang.blog.csdn.net/article/details/120210397][767_AUTOSAR_RS_FeatureModelExchangeFormat1_特征模型交换格式用例1]]
 - [[https://greyzhang.blog.csdn.net/article/details/120211901][768_AUTOSAR_RS_FeatureModelExchangeFormat2_特征模型交换格式用例2]]
+- [[https://greyzhang.blog.csdn.net/article/details/120212324][769_AUTOSAR_RS_FeatureModelExchangeFormat2_特征模型交换格式需求]]
