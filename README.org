@@ -160,3 +160,4 @@
 ** AUTOSAR_RS_SafetyExtensions
 - [[https://greyzhang.blog.csdn.net/article/details/120229945][770_AUTOSAR_RS_SafetyExtensions1_安全需求以及安全完整性]]
 - [[https://greyzhang.blog.csdn.net/article/details/120230447][771_AUTOSAR_RS_SafetyExtensions2_安全的测量和机制、追溯性及分配、方法论和应用]]
+- [[https://greyzhang.blog.csdn.net/article/details/120230761][772_AUTOSAR_RS_SafetyExtensions3_支持的用例]]
