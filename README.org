@@ -163,3 +163,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120230761][772_AUTOSAR_RS_SafetyExtensions3_支持的用例]]
 ** AUTOSAR_RS_SoftwareComponentTemplate
 - [[https://greyzhang.blog.csdn.net/article/details/120242589][773_AUTOSAR_RS_SoftwareComponentTemplate1_总体需求以及特征定义]]
+- [[https://greyzhang.blog.csdn.net/article/details/120242920][774_AUTOSAR_RS_SoftwareComponentTemplate2_SWC模板需求1]]
