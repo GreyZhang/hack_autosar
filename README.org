@@ -167,3 +167,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120252241][775_AUTOSAR_RS_SoftwareComponentTemplate3_SWC模板需求2]]
 - [[https://greyzhang.blog.csdn.net/article/details/120252619][776_AUTOSAR_RS_SoftwareComponentTemplate4_SWC模板需求3]]
 - [[https://greyzhang.blog.csdn.net/article/details/120253829][777_AUTOSAR_RS_SoftwareComponentTemplate5_SWC模板需求4]]
+- [[https://greyzhang.blog.csdn.net/article/details/120256753][778_AUTOSAR_RS_SoftwareComponentTemplate6_SWC模板需求5]]
