@@ -171,3 +171,4 @@
 ** AUTOSAR_RS_StandardizationTemplate
 - [[https://greyzhang.blog.csdn.net/article/details/120276164][779_AUTOSAR_RS_StandardizationTemplate1_综述_接口以及SWS表达]]
 - [[https://greyzhang.blog.csdn.net/article/details/120276667][780_AUTOSAR_RS_StandardizationTemplate2_用例2]]
+- [[https://greyzhang.blog.csdn.net/article/details/120277754][781_AUTOSAR_RS_StandardizationTemplate3_需求1]]
