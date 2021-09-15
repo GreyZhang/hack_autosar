@@ -177,3 +177,4 @@
 ** AUTOSAR_RS_SystemTemplate
 - [[https://greyzhang.blog.csdn.net/article/details/120298494][786_AUTOSAR_RS_SystemTemplate1_概述约束以需求1_约束以及映射]]
 - [[https://greyzhang.blog.csdn.net/article/details/120318159][787_AUTOSAR_RS_SystemTemplate2_需求2_拓扑_通信1]]
+- [[https://greyzhang.blog.csdn.net/article/details/120318572][788_AUTOSAR_RS_SystemTemplate3_通信2_时序以及SAE J1939等]]
