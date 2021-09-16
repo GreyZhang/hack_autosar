@@ -183,3 +183,4 @@
 ** AUTOSAR_RS_TimingExtensions
 - [[https://greyzhang.blog.csdn.net/article/details/120338025][791_AUTOSAR_RS_TimingExtensions1_时序分析扩展需求1]]
 - [[https://greyzhang.blog.csdn.net/article/details/120338412][792_AUTOSAR_RS_TimingExtensions2_时序分析扩展需求2]]
+- [[https://greyzhang.blog.csdn.net/article/details/120339292][793_AUTOSAR_RS_TimingExtensions3_时序分析扩展用例]]
