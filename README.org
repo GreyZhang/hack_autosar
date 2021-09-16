@@ -180,3 +180,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120318572][788_AUTOSAR_RS_SystemTemplate3_通信2_时序以及SAE J1939等]]
 - [[https://greyzhang.blog.csdn.net/article/details/120319059][789_AUTOSAR_RS_SystemTemplate4_通信3]]
 - [[https://greyzhang.blog.csdn.net/article/details/120319404][790_AUTOSAR_RS_SystemTemplate5_通信4]]
+** AUTOSAR_RS_TimingExtensions
+- [[https://greyzhang.blog.csdn.net/article/details/120338025][791_AUTOSAR_RS_TimingExtensions1_时序分析扩展需求1]]
