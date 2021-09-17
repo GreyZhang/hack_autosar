@@ -186,3 +186,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120339292][793_AUTOSAR_RS_TimingExtensions3_时序分析扩展用例]]
 ** AUTOSAR_TR_FrancaIntegration
 - [[https://greyzhang.blog.csdn.net/article/details/120339830][794_AUTOSAR_TR_FrancaIntegration1_简介]]
+- [[https://greyzhang.blog.csdn.net/article/details/120357539][795_AUTOSAR_TR_FrancaIntegration2_集成方法1]]
