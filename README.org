@@ -191,3 +191,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120358340][797_AUTOSAR_TR_FrancaIntegration4_限制和扩展]]
 - [[https://greyzhang.blog.csdn.net/article/details/120369245][798_AUTOSAR_TR_FrancaIntegration5_连接器的连接以及约束]]
 - [[https://greyzhang.blog.csdn.net/article/details/120370972][799_AUTOSAR_TR_FrancaIntegration6_Franca到AUTOSAR的转换1]]
+- [[https://greyzhang.blog.csdn.net/article/details/120372097][800_AUTOSAR_TR_FrancaIntegration6_Franca到AUTOSAR的转换2]]
