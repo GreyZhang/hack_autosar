@@ -199,3 +199,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120390220][804_AUTOSAR_TR_GeneralBlueprintsSupplement2_可视化表达2]]
 ** AUTOSAR_TPS_BSWModuleDescriptionTemplate
 - [[https://greyzhang.blog.csdn.net/article/details/120394809][805_AUTOSAR_TPS_BSWModuleDescriptionTemplate1_概述、建模、接口以及行为1]]
+- [[https://greyzhang.blog.csdn.net/article/details/120395500][806_AUTOSAR_TPS_BSWModuleDescriptionTemplate2_供应商信、硬件兼容、变体处理]]
