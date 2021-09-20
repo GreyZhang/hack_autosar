@@ -194,3 +194,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120372097][800_AUTOSAR_TR_FrancaIntegration6_Franca到AUTOSAR的转换2]]
 - [[https://greyzhang.blog.csdn.net/article/details/120372452][801_AUTOSAR_TR_FrancaIntegration7_Franca到AUTOSAR的转换3]]
 - [[https://greyzhang.blog.csdn.net/article/details/120383866][802_AUTOSAR_TR_FrancaIntegration8_Franca到AUTOSAR的转换4]]
+** UTOSAR_TR_GeneralBlueprintsSupplement
+- [[https://greyzhang.blog.csdn.net/article/details/120390223][803_AUTOSAR_TR_GeneralBlueprintsSupplement1_概述以及可视化表达1]]
