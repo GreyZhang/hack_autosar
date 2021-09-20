@@ -197,3 +197,5 @@
 ** UTOSAR_TR_GeneralBlueprintsSupplement
 - [[https://greyzhang.blog.csdn.net/article/details/120390223][803_AUTOSAR_TR_GeneralBlueprintsSupplement1_概述以及可视化表达1]]
 - [[https://greyzhang.blog.csdn.net/article/details/120390220][804_AUTOSAR_TR_GeneralBlueprintsSupplement2_可视化表达2]]
+** AUTOSAR_TPS_BSWModuleDescriptionTemplate
+- [[https://greyzhang.blog.csdn.net/article/details/120394809][805_AUTOSAR_TPS_BSWModuleDescriptionTemplate1_概述、建模、接口以及行为1]]
