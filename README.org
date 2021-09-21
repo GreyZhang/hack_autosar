@@ -201,3 +201,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120394809][805_AUTOSAR_TPS_BSWModuleDescriptionTemplate1_概述、建模、接口以及行为1]]
 - [[https://greyzhang.blog.csdn.net/article/details/120395500][806_AUTOSAR_TPS_BSWModuleDescriptionTemplate2_供应商信、硬件兼容、变体处理]]
 - [[https://greyzhang.blog.csdn.net/article/details/120398387][807_AUTOSAR_TPS_BSWModuleDescriptionTemplate3_断言需求、组件实施以及代码链接]]
+- [[https://greyzhang.blog.csdn.net/article/details/120398715][808_AUTOSAR_TPS_BSWModuleDescriptionTemplate4_实施]]
