@@ -209,3 +209,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120402744][813_AUTOSAR_TPS_BSWModuleDescriptionTemplate9_执行时间1]]
 - [[https://greyzhang.blog.csdn.net/article/details/120403101][814_AUTOSAR_TPS_BSWModuleDescriptionTemplate10_执行时间2]]
 - [[https://greyzhang.blog.csdn.net/article/details/120403921][815_AUTOSAR_TPS_BSWModuleDescriptionTemplate11_执行时间3]]
+- [[https://greyzhang.blog.csdn.net/article/details/120404679][816_AUTOSAR_TPS_BSWModuleDescriptionTemplate12_测量标定支持1]]
