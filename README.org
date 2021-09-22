@@ -213,3 +213,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120423006][817_AUTOSAR_TPS_BSWModuleDescriptionTemplate13_测量标定支持2]]
 - [[https://greyzhang.blog.csdn.net/article/details/120423623][818_AUTOSAR_TPS_BSWModuleDescriptionTemplate14_标定数据软件仿真支持]]
 - [[https://greyzhang.blog.csdn.net/article/details/120424077][819_AUTOSAR_TPS_BSWModuleDescriptionTemplate15_测量标定功能建模支持]]
+- [[https://greyzhang.blog.csdn.net/article/details/120424402][820_AUTOSAR_TPS_BSWModuleDescriptionTemplate16_标定对于快速原型的支持]]
