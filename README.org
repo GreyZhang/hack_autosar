@@ -215,3 +215,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120424077][819_AUTOSAR_TPS_BSWModuleDescriptionTemplate15_测量标定功能建模支持]]
 - [[https://greyzhang.blog.csdn.net/article/details/120424402][820_AUTOSAR_TPS_BSWModuleDescriptionTemplate16_标定对于快速原型的支持]]
 - [[https://greyzhang.blog.csdn.net/article/details/120443219][821_AUTOSAR_TPS_BSWModuleDescriptionTemplate17_基础软件变体处理]]
+- [[https://greyzhang.blog.csdn.net/article/details/120443634][822_AUTOSAR_TPS_BSWModuleDescriptionTemplate18_一致性表达以及测试]]
