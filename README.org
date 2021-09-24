@@ -216,3 +216,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120424402][820_AUTOSAR_TPS_BSWModuleDescriptionTemplate16_标定对于快速原型的支持]]
 - [[https://greyzhang.blog.csdn.net/article/details/120443219][821_AUTOSAR_TPS_BSWModuleDescriptionTemplate17_基础软件变体处理]]
 - [[https://greyzhang.blog.csdn.net/article/details/120443634][822_AUTOSAR_TPS_BSWModuleDescriptionTemplate18_一致性表达以及测试]]
+- [[https://greyzhang.blog.csdn.net/article/details/120462761][823_AUTOSAR_TPS_DiagnosticExtractTemplate1_简介_概述1]]
