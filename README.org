@@ -220,3 +220,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120462761][823_AUTOSAR_TPS_DiagnosticExtractTemplate1_简介_概述1]]
 - [[https://greyzhang.blog.csdn.net/article/details/120463303][824_AUTOSAR_TPS_DiagnosticExtractTemplate2_简介_概述2]]
 - [[https://greyzhang.blog.csdn.net/article/details/120463852][825_AUTOSAR_TPS_DiagnosticExtractTemplate3_简介_范围]]
+- [[https://greyzhang.blog.csdn.net/article/details/120464487][826_AUTOSAR_TPS_DiagnosticExtractTemplate4_用例]]
