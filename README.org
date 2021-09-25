@@ -1,4 +1,5 @@
 * learning autosar, a hard way...
+- 学习的过程长路漫漫，有时候也不乏痛苦绝望。感谢大家的star，这是我感觉到的莫大鼓励！
 * 学习笔记
 ** 整体资料梳理
 - [[https://greyzhang.blog.csdn.net/article/details/118859727][667_AUTOSAR目录框架梳理以及初步的计划]]
