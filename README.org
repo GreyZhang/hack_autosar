@@ -225,3 +225,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120476738][828_AUTOSAR_TPS_DiagnosticExtractTemplate6_DID、路由、数据元素以及文本文档]]
 - [[https://greyzhang.blog.csdn.net/article/details/120477815][829_AUTOSAR_TPS_DiagnosticExtractTemplate7_诊断贡献以及常见属性]]
 - [[https://greyzhang.blog.csdn.net/article/details/120478248][830_AUTOSAR_TPS_DiagnosticExtractTemplate8_访问权限、对话、安全等级简介]]
+- [[https://greyzhang.blog.csdn.net/article/details/120478957][831_AUTOSAR_TPS_DiagnosticExtractTemplate9_访问权限、对话、安全等级2以及AUTOSAR支持的服务1]]
