@@ -222,3 +222,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120463852][825_AUTOSAR_TPS_DiagnosticExtractTemplate3_简介_范围]]
 - [[https://greyzhang.blog.csdn.net/article/details/120464487][826_AUTOSAR_TPS_DiagnosticExtractTemplate4_用例]]
 - [[https://greyzhang.blog.csdn.net/article/details/120475617][827_AUTOSAR_TPS_DiagnosticExtractTemplate5_概念背景以及通用元模型数据1]]
+- [[https://greyzhang.blog.csdn.net/article/details/120476738][828_AUTOSAR_TPS_DiagnosticExtractTemplate6_DID、路由、数据元素以及文本文档]]
