@@ -231,3 +231,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120497778][833_AUTOSAR_TPS_DiagnosticExtractTemplate11_AUTOSAR支持的诊断服务3]]
 - [[https://greyzhang.blog.csdn.net/article/details/120498430][834_AUTOSAR_TPS_DiagnosticExtractTemplate12_AUTOSAR支持的诊断服务4]]
 - [[https://greyzhang.blog.csdn.net/article/details/120498840][835_AUTOSAR_TPS_DiagnosticExtractTemplate13_AUTOSAR支持的诊断服务5]]
+- [[https://greyzhang.blog.csdn.net/article/details/120518613][836_AUTOSAR_TPS_DiagnosticExtractTemplate14_诊断服务映射]]
