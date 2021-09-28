@@ -235,3 +235,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120518975][837_AUTOSAR_TPS_DiagnosticExtractTemplate15_诊断事件处理1]]
 - [[https://greyzhang.blog.csdn.net/article/details/120519327][838_AUTOSAR_TPS_DiagnosticExtractTemplate16_诊断事件处理2]]
 - [[https://greyzhang.blog.csdn.net/article/details/120519719][839_AUTOSAR_TPS_DiagnosticExtractTemplate17_诊断事件处理3]]
+- [[https://greyzhang.blog.csdn.net/article/details/120539530][840_AUTOSAR_TPS_ECUConfiguration1_简介以及元模型]]
