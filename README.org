@@ -237,3 +237,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120519719][839_AUTOSAR_TPS_DiagnosticExtractTemplate17_诊断事件处理3]]
 - [[https://greyzhang.blog.csdn.net/article/details/120539530][840_AUTOSAR_TPS_ECUConfiguration1_简介以及元模型]]
 - [[https://greyzhang.blog.csdn.net/article/details/120540114][841_AUTOSAR_TPS_ECUConfiguration2_ECU配置参数的实施1]]
+- [[https://greyzhang.blog.csdn.net/article/details/120572972][842_AUTOSAR_TPS_ECUConfiguration3_ECU配置参数的实施2]]
