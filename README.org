@@ -238,4 +238,7 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120539530][840_AUTOSAR_TPS_ECUConfiguration1_简介以及元模型]]
 - [[https://greyzhang.blog.csdn.net/article/details/120540114][841_AUTOSAR_TPS_ECUConfiguration2_ECU配置参数的实施1]]
 - [[https://greyzhang.blog.csdn.net/article/details/120572972][842_AUTOSAR_TPS_ECUConfiguration3_ECU配置参数的实施2]]
+** AUTOSAR_TPS_ECUResourceTemplate
 - [[https://greyzhang.blog.csdn.net/article/details/120607764][843_AUTOSAR_TPS_ECUResourceTemplate]]
+** 844_AUTOSAR_TPS_FeatureModelExchangeFormat
+- [[https://greyzhang.blog.csdn.net/article/details/120614824][844_AUTOSAR_TPS_FeatureModelExchangeFormat]]
