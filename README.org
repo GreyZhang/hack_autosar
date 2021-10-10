@@ -248,3 +248,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120619401][847_AUTOSAR_TPS_GenericStructureTemplate3_UML的使用2]]
 - [[https://greyzhang.blog.csdn.net/article/details/120630660][848_AUTOSAR_TPS_GenericStructureTemplate4_UML的使用3]]
 - [[https://greyzhang.blog.csdn.net/article/details/120659380][849_AUTOSAR_TPS_GenericStructureTemplate5_UML的使用4]]
+- [[https://greyzhang.blog.csdn.net/article/details/120692907][850_AUTOSAR_TPS_GenericStructureTemplate6_UML的使用5]]
