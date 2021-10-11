@@ -252,3 +252,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120693965][851_AUTOSAR_TPS_GenericStructureTemplate7_上层架构1]]
 - [[https://greyzhang.blog.csdn.net/article/details/120711915][852_AUTOSAR_TPS_GenericStructureTemplate8_上层架构2]]
 - [[https://greyzhang.blog.csdn.net/article/details/120712275][853_AUTOSAR_TPS_GenericStructureTemplate9_通用模板1]]
+- [[https://greyzhang.blog.csdn.net/article/details/120713665][854_AUTOSAR_TPS_GenericStructureTemplate10_通用模板2]]
