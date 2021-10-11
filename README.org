@@ -250,3 +250,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120659380][849_AUTOSAR_TPS_GenericStructureTemplate5_UML的使用4]]
 - [[https://greyzhang.blog.csdn.net/article/details/120692907][850_AUTOSAR_TPS_GenericStructureTemplate6_UML的使用5]]
 - [[https://greyzhang.blog.csdn.net/article/details/120693965][851_AUTOSAR_TPS_GenericStructureTemplate7_上层架构1]]
+- [[https://greyzhang.blog.csdn.net/article/details/120711915][852_AUTOSAR_TPS_GenericStructureTemplate8_上层架构2]]
