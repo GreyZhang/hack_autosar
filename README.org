@@ -1,5 +1,5 @@
 * learning autosar, a hard way...
-- 学习的过程长路漫漫，有时候也不乏痛苦绝望。感谢大家的star，这是我感觉到的莫大鼓励！
+- 学习的过程长路漫漫，有时候也不乏痛苦绝望。感谢大家的star，这使我感觉到的莫大鼓励！
 * 学习笔记
 ** 整体资料梳理
 - [[https://greyzhang.blog.csdn.net/article/details/118859727][667_AUTOSAR目录框架梳理以及初步的计划]]
@@ -251,3 +251,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120692907][850_AUTOSAR_TPS_GenericStructureTemplate6_UML的使用5]]
 - [[https://greyzhang.blog.csdn.net/article/details/120693965][851_AUTOSAR_TPS_GenericStructureTemplate7_上层架构1]]
 - [[https://greyzhang.blog.csdn.net/article/details/120711915][852_AUTOSAR_TPS_GenericStructureTemplate8_上层架构2]]
+- [[https://greyzhang.blog.csdn.net/article/details/120712275][853_AUTOSAR_TPS_GenericStructureTemplate9_通用模板1]]
