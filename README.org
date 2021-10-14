@@ -254,3 +254,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120712275][853_AUTOSAR_TPS_GenericStructureTemplate9_通用模板1]]
 - [[https://greyzhang.blog.csdn.net/article/details/120713665][854_AUTOSAR_TPS_GenericStructureTemplate10_通用模板2]]
 - [[https://greyzhang.blog.csdn.net/article/details/120754541][860_AUTOSAR_TPS_GenericStructureTemplate11_管理数据以及特殊数据]]
+- [[https://greyzhang.blog.csdn.net/article/details/120754402][861_AUTOSAR_TPS_GenericStructureTemplate12_原语类型1]]
