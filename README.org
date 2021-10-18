@@ -259,3 +259,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120792219][863_AUTOSAR_TPS_GenericStructureTemplate14_公式语言2]]
 - [[https://greyzhang.blog.csdn.net/article/details/120798399][864_AUTOSAR_TPS_GenericStructureTemplate15_公式语言3]]
 - [[https://greyzhang.blog.csdn.net/article/details/120814972][865_AUTOSAR_TPS_GenericStructureTemplate16_工程对象、注释、多维时间以及可选值]]
+- [[https://greyzhang.blog.csdn.net/article/details/120835045][866_AUTOSAR_TPS_GenericStructureTemplate17_可重用架构简介以及设计动机]]
