@@ -264,3 +264,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120875438][868_AUTOSAR_TPS_GenericStructureTemplate19_可重用架构设计的实例引用]]
 - [[https://greyzhang.blog.csdn.net/article/details/120892970][869_AUTOSAR_TPS_GenericStructureTemplate20_元模型模式以及模型转换]]
 - [[https://greyzhang.blog.csdn.net/article/details/120916525][870_AUTOSAR_TPS_GenericStructureTemplate21_元模型中的模型转换]]
+- [[https://greyzhang.blog.csdn.net/article/details/120930604][871_AUTOSAR_TPS_GenericStructureTemplate22_变体处理简介]]
