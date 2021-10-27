@@ -267,3 +267,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120930604][871_AUTOSAR_TPS_GenericStructureTemplate22_变体处理简介]]
 - [[https://greyzhang.blog.csdn.net/article/details/120931484][872_AUTOSAR_TPS_GenericStructureTemplate23_变体点的聚合模式]]
 - [[https://greyzhang.blog.csdn.net/article/details/120934251][873_AUTOSAR_TPS_GenericStructureTemplate24_变体点的关联模式]]
+- [[https://greyzhang.blog.csdn.net/article/details/121004345][878_AUTOSAR_TPS_GenericStructureTemplate25_变体点的属性值模式]]
