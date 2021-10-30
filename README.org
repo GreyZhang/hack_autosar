@@ -270,3 +270,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/121004345][878_AUTOSAR_TPS_GenericStructureTemplate25_变体点的属性值模式]]
 - [[https://greyzhang.blog.csdn.net/article/details/121023871][879_AUTOSAR_TPS_GenericStructureTemplate26_变体点的属性集模式]]
 - [[https://greyzhang.blog.csdn.net/article/details/121043473][880_AUTOSAR_TPS_GenericStructureTemplate27_变体点1]]
+- [[https://greyzhang.blog.csdn.net/article/details/121053951][881_AUTOSAR_TPS_GenericStructureTemplate28_变体点2]]
