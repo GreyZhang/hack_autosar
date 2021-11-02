@@ -273,3 +273,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/121053951][881_AUTOSAR_TPS_GenericStructureTemplate28_变体点2]]
 - [[https://greyzhang.blog.csdn.net/article/details/121066747][882_AUTOSAR_TPS_GenericStructureTemplate29_变体点3]]
 - [[https://greyzhang.blog.csdn.net/article/details/121088176][883_AUTOSAR_TPS_GenericStructureTemplate30_评估求值的变体1]]
+- [[https://greyzhang.blog.csdn.net/article/details/121109707][884_AUTOSAR_TPS_GenericStructureTemplate31_评估求值的变体2]]
