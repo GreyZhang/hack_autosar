@@ -276,3 +276,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/121109707][884_AUTOSAR_TPS_GenericStructureTemplate31_评估求值的变体2]]
 - [[https://greyzhang.blog.csdn.net/article/details/121129865][885_AUTOSAR_TPS_GenericStructureTemplate32_选择变体]]
 - [[https://greyzhang.blog.csdn.net/article/details/121151732][886_AUTOSAR_TPS_GenericStructureTemplate33_变体处理例子]]
+- [[https://greyzhang.blog.csdn.net/article/details/121170767][887_AUTOSAR_TPS_SafetyExtensions1_简介与概述]]
