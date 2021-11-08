@@ -280,3 +280,4 @@
 ** AUTOSAR_TPS_SafetyExtensions
 - [[https://greyzhang.blog.csdn.net/article/details/121183167][888_AUTOSAR_TPS_SafetyExtensions2_安全需求]]
 - [[https://greyzhang.blog.csdn.net/article/details/121196819][889_AUTOSAR_TPS_SafetyExtensions3_完整性等级与功能安全需求跟踪1]]
+- [[https://greyzhang.blog.csdn.net/article/details/121217938][890_AUTOSAR_TPS_SafetyExtensions4_安全需求跟踪2与安全测量]]
