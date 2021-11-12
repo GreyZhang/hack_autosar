@@ -285,3 +285,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/121237915][891_AUTOSAR_TPS_SoftwareComponentTemplate1_简介]]
 - [[https://greyzhang.blog.csdn.net/article/details/121257387][892_AUTOSAR_TPS_SoftwareComponentTemplate2_概念_标定]]
 - [[https://greyzhang.blog.csdn.net/article/details/121275616][893_AUTOSAR_TPS_SoftwareComponentTemplate3_概念_运行时1]]
+- [[https://greyzhang.blog.csdn.net/article/details/121294943][894_AUTOSAR_TPS_SoftwareComponentTemplate4_数据一致性与变体处理]]
