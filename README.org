@@ -288,3 +288,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/121294943][894_AUTOSAR_TPS_SoftwareComponentTemplate4_数据一致性与变体处理]]
 - [[https://greyzhang.blog.csdn.net/article/details/121301997][895_AUTOSAR_TPS_SoftwareComponentTemplate5_PRPort以及伪装网络]]
 - [[https://greyzhang.blog.csdn.net/article/details/121319255][896_AUTOSAR_TPS_SoftwareComponentTemplate6_可变数组概述与用例]]
+- [[https://greyzhang.blog.csdn.net/article/details/121342849][897_AUTOSAR_TPS_SoftwareComponentTemplate7_软件组件、端口以及接口1]]
