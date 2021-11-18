@@ -291,3 +291,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/121342849][897_AUTOSAR_TPS_SoftwareComponentTemplate7_软件组件、端口以及接口1]]
 - [[https://greyzhang.blog.csdn.net/article/details/121367317][898_AUTOSAR_TPS_SoftwareComponentTemplate8_软件组件、端口以及接口2]]
 - [[https://greyzhang.blog.csdn.net/article/details/121386399][899_AUTOSAR_TPS_SoftwareComponentTemplate9_软件组件、端口以及接口3]]
+- [[https://greyzhang.blog.csdn.net/article/details/121411900][900_AUTOSAR_TPS_SoftwareComponentTemplate10_软件组件、端口以及接口4]]
