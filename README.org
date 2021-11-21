@@ -295,3 +295,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/121413495][901_AUTOSAR_TPS_SoftwareComponentTemplate11_SWC、Port以及接口细节1]]
 - [[https://greyzhang.blog.csdn.net/article/details/121434688][902_AUTOSAR_TPS_SoftwareComponentTemplate12_SWC、Port以及接口细节2]]
 - [[https://greyzhang.blog.csdn.net/article/details/121449597][903_AUTOSAR_TPS_SoftwareComponentTemplate13_SWC、Port以及接口细节3]]
+- [[https://greyzhang.blog.csdn.net/article/details/121463957][904_AUTOSAR_TPS_SoftwareComponentTemplate14_通信模式以及参数通信]]
