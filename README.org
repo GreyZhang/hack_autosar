@@ -303,3 +303,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/121449597][903_AUTOSAR_TPS_SoftwareComponentTemplate13_SWC、Port以及接口细节3]]
 - [[https://greyzhang.blog.csdn.net/article/details/121463957][904_AUTOSAR_TPS_SoftwareComponentTemplate14_通信模式以及参数通信]]
 - [[https://greyzhang.blog.csdn.net/article/details/121502560][905_AUTOSAR_TPS_SoftwareComponentTemplate15_端口映射以及数据转换1]]
+- [[https://greyzhang.blog.csdn.net/article/details/121526296][906_AUTOSAR_TPS_SoftwareComponentTemplate16_端口映射以及数据转换2]]
