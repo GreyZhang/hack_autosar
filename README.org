@@ -305,3 +305,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/121502560][905_AUTOSAR_TPS_SoftwareComponentTemplate15_端口映射以及数据转换1]]
 - [[https://greyzhang.blog.csdn.net/article/details/121526296][906_AUTOSAR_TPS_SoftwareComponentTemplate16_端口映射以及数据转换2]]
 - [[https://greyzhang.blog.csdn.net/article/details/121546245][907_AUTOSAR_TPS_SoftwareComponentTemplate17_端口映射以及数据转换3]]
+- [[https://greyzhang.blog.csdn.net/article/details/121569511][908_AUTOSAR_TPS_SoftwareComponentTemplate18_端口映射以及数据转换4]] 
