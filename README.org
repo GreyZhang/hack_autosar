@@ -309,3 +309,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/121579241][909_AUTOSAR_TPS_SoftwareComponentTemplate19_端口映射以及数据转换5_端口注释]]
 - [[https://greyzhang.blog.csdn.net/article/details/121590597][910_AUTOSAR_TPS_SoftwareComponentTemplate19_端口注释2]]
 - [[https://greyzhang.blog.csdn.net/article/details/121619598][911_AUTOSAR_TPS_SoftwareComponentTemplate20_发送器-接收器通信具体要求1]]
+- [[https://greyzhang.blog.csdn.net/article/details/121720960][916_AUTOSAR_TPS_SoftwareComponentTemplate21_发送器-接收器通信具体要求2]]
