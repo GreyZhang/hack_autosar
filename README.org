@@ -312,3 +312,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/121720960][916_AUTOSAR_TPS_SoftwareComponentTemplate21_发送器-接收器通信具体要求2]]
 - [[https://greyzhang.blog.csdn.net/article/details/121729278][917_AUTOSAR_TPS_SoftwareComponentTemplate22_客户端以及服务器通信、模式切换、参数的具体要求]]
 - [[https://greyzhang.blog.csdn.net/article/details/121754978][918_AUTOSAR_TPS_SoftwareComponentTemplate23_非易失性存储通信以及数据传输通信]]
+- [[https://greyzhang.blog.csdn.net/article/details/121779352][919_AUTOSAR_TPS_SoftwareComponentTemplate24_端口组与E2E端对端保护1]]
