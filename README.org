@@ -318,3 +318,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/121865363][922_AUTOSAR_TPS_SoftwareComponentTemplate27_隐式通信行为]]
 - [[https://greyzhang.blog.csdn.net/article/details/121873132][923_AUTOSAR_TPS_SoftwareComponentTemplate28_数据描述_数据类型]]
 - [[https://greyzhang.blog.csdn.net/article/details/122152774][941_AUTOSAR_TPS_SoftwareComponentTemplate29_数据类型简介]]
+- [[https://greyzhang.blog.csdn.net/article/details/122180784][942_AUTOSAR_TPS_SoftwareComponentTemplate30_数据类型_mapping]]
