@@ -320,3 +320,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122152774][941_AUTOSAR_TPS_SoftwareComponentTemplate29_数据类型简介]]
 - [[https://greyzhang.blog.csdn.net/article/details/122180784][942_AUTOSAR_TPS_SoftwareComponentTemplate30_数据类型_mapping]]
 - [[https://greyzhang.blog.csdn.net/article/details/122181037][943_AUTOSAR_TPS_SoftwareComponentTemplate31_数据分类_应用数据类型1]]
+- [[https://greyzhang.blog.csdn.net/article/details/122182119][944_AUTOSAR_TPS_SoftwareComponentTemplate32_应用数据类型2]]
