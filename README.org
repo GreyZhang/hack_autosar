@@ -326,3 +326,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122224454][949_AUTOSAR_TPS_SoftwareComponentTemplate35_数据类型实现1]]
 - [[https://greyzhang.blog.csdn.net/article/details/122244277][952_AUTOSAR_TPS_SoftwareComponentTemplate36_数据类型实现2]]
 - [[https://greyzhang.blog.csdn.net/article/details/122244706][953_AUTOSAR_TPS_SoftwareComponentTemplate37_数据类型实现3]]
+- [[https://greyzhang.blog.csdn.net/article/details/122245738][954_AUTOSAR_TPS_SoftwareComponentTemplate38_基本数据类型]]
