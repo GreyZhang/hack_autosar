@@ -332,3 +332,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122267279][957_AUTOSAR_TPS_SoftwareComponentTemplate41_数据定义属性1]]
 - [[https://greyzhang.blog.csdn.net/article/details/122268286][958_AUTOSAR_TPS_SoftwareComponentTemplate42_数据定义属性2]]
 - [[https://greyzhang.blog.csdn.net/article/details/122281381][960_AUTOSAR_TPS_SoftwareComponentTemplate43_轴输入设置以及数据依赖指定]]
+- [[https://greyzhang.blog.csdn.net/article/details/122281962][961_AUTOSAR_TPS_SoftwareComponentTemplate44_数据属性相对于数据元素、轴元素、计算方法、单位的优先级]]
