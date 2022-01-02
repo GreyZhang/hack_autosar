@@ -331,3 +331,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122263256][956_AUTOSAR_TPS_SoftwareComponentTemplate40_数据类型原型]]
 - [[https://greyzhang.blog.csdn.net/article/details/122267279][957_AUTOSAR_TPS_SoftwareComponentTemplate41_数据定义属性1]]
 - [[https://greyzhang.blog.csdn.net/article/details/122268286][958_AUTOSAR_TPS_SoftwareComponentTemplate42_数据定义属性2]]
+- [[https://greyzhang.blog.csdn.net/article/details/122281381][960_AUTOSAR_TPS_SoftwareComponentTemplate43_轴输入设置以及数据依赖指定]]
