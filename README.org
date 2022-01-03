@@ -338,3 +338,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122285430][964_AUTOSAR_TPS_SoftwareComponentTemplate47_物理单位、维度以及单位组]]
 - [[https://greyzhang.blog.csdn.net/article/details/122285732][965_AUTOSAR_TPS_SoftwareComponentTemplate48_数据约束]]
 - [[https://greyzhang.blog.csdn.net/article/details/122288281][966_AUTOSAR_TPS_SoftwareComponentTemplate49_地址分配方法]]
+- [[https://greyzhang.blog.csdn.net/article/details/122289068][967_AUTOSAR_TPS_SoftwareComponentTemplate50_记录布局]]
