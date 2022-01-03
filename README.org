@@ -341,3 +341,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122289068][967_AUTOSAR_TPS_SoftwareComponentTemplate50_记录布局]]
 - [[https://greyzhang.blog.csdn.net/article/details/122289617][968_AUTOSAR_TPS_SoftwareComponentTemplate51_常量值规范1]]
 - [[https://greyzhang.blog.csdn.net/article/details/122290899][970_AUTOSAR_TPS_SoftwareComponentTemplate52_初始值]]
+- [[https://greyzhang.blog.csdn.net/article/details/122291609][971_AUTOSAR_TPS_SoftwareComponentTemplate53_兼容性1]]
