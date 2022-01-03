@@ -339,3 +339,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122285732][965_AUTOSAR_TPS_SoftwareComponentTemplate48_数据约束]]
 - [[https://greyzhang.blog.csdn.net/article/details/122288281][966_AUTOSAR_TPS_SoftwareComponentTemplate49_地址分配方法]]
 - [[https://greyzhang.blog.csdn.net/article/details/122289068][967_AUTOSAR_TPS_SoftwareComponentTemplate50_记录布局]]
+- [[https://greyzhang.blog.csdn.net/article/details/122289617][968_AUTOSAR_TPS_SoftwareComponentTemplate51_常量值规范1]]
