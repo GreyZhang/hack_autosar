@@ -342,3 +342,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122289617][968_AUTOSAR_TPS_SoftwareComponentTemplate51_常量值规范1]]
 - [[https://greyzhang.blog.csdn.net/article/details/122290899][970_AUTOSAR_TPS_SoftwareComponentTemplate52_初始值]]
 - [[https://greyzhang.blog.csdn.net/article/details/122291609][971_AUTOSAR_TPS_SoftwareComponentTemplate53_兼容性1]]
+- [[https://greyzhang.blog.csdn.net/article/details/122311521][974_AUTOSAR_TPS_SoftwareComponentTemplate54_应用数据类型与实施数据类型的兼容性]]
