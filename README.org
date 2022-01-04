@@ -345,3 +345,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122311521][974_AUTOSAR_TPS_SoftwareComponentTemplate54_应用数据类型与实施数据类型的兼容性]]
 - [[https://greyzhang.blog.csdn.net/article/details/122312074][975_AUTOSAR_TPS_SoftwareComponentTemplate55_变量与参数类型兼容性原型]]
 - [[https://greyzhang.blog.csdn.net/article/details/122313373][976_AUTOSAR_TPS_SoftwareComponentTemplate56]]
+- [[https://greyzhang.blog.csdn.net/article/details/122313792][977_AUTOSAR_TPS_SoftwareComponentTemplate57_运行实体之间的通信]]
