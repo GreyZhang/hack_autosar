@@ -350,3 +350,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122333348][981_AUTOSAR_TPS_SoftwareComponentTemplate59_端口API选项]]
 - [[https://greyzhang.blog.csdn.net/article/details/122333899][982_AUTOSAR_TPS_SoftwareComponentTemplate60_每一种实例化对象的存储]]
 - [[https://greyzhang.blog.csdn.net/article/details/122334211][983_AUTOSAR_TPS_SoftwareComponentTemplate61_内部行为1]]
+- [[https://greyzhang.blog.csdn.net/article/details/122334646][984_AUTOSAR_TPS_SoftwareComponentTemplate62_服务需求1]]
