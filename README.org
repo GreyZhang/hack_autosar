@@ -349,3 +349,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122332169][980_AUTOSAR_TPS_SoftwareComponentTemplate58_运行实体与参数访问]]
 - [[https://greyzhang.blog.csdn.net/article/details/122333348][981_AUTOSAR_TPS_SoftwareComponentTemplate59_端口API选项]]
 - [[https://greyzhang.blog.csdn.net/article/details/122333899][982_AUTOSAR_TPS_SoftwareComponentTemplate60_每一种实例化对象的存储]]
+- [[https://greyzhang.blog.csdn.net/article/details/122334211][983_AUTOSAR_TPS_SoftwareComponentTemplate61_内部行为1]]
