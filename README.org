@@ -356,3 +356,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122351384][987_AUTOSAR_TPS_SoftwareComponentTemplate65_诊断事件]]
 - [[https://greyzhang.blog.csdn.net/article/details/122353285][988_AUTOSAR_TPS_SoftwareComponentTemplate66_诊断事件用例]]
 - [[https://greyzhang.blog.csdn.net/article/details/122354050][989_AUTOSAR_TPS_SoftwareComponentTemplate67_诊断通信]]
+- [[https://greyzhang.blog.csdn.net/article/details/122354698][990_AUTOSAR_TPS_SoftwareComponentTemplate68_OBD相关需求]]
