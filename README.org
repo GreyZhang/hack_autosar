@@ -360,3 +360,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122355501][992_AUTOSAR_TPS_SoftwareComponentTemplate69_具体的服务依赖1]]
 - [[https://greyzhang.blog.csdn.net/article/details/122374357][993_AUTOSAR_TPS_SoftwareComponentTemplate70_变体点代理]]
 - [[https://greyzhang.blog.csdn.net/article/details/122376847][994_AUTOSAR_TPS_SoftwareComponentTemplate71_实施与模式管理1]]
+- [[https://greyzhang.blog.csdn.net/article/details/122378731][997_AUTOSAR_TPS_SoftwareComponentTemplate72_模式管理2]]
