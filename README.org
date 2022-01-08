@@ -366,3 +366,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122382350][1000_AUTOSAR_TPS_SoftwareComponentTemplate75_快速原型]]
 ** AUTOSAR_TPS_StandardizationTemplate
 - [[https://greyzhang.blog.csdn.net/article/details/122385317][1002_AUTOSAR_TPS_StandardizationTemplate1_跟踪、生命周期以及蓝图]]
+- [[https://greyzhang.blog.csdn.net/article/details/122386228][1003_AUTOSAR_TPS_StandardizationTemplate2_蓝图2]]
