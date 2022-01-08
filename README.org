@@ -363,3 +363,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122378731][997_AUTOSAR_TPS_SoftwareComponentTemplate72_模式管理2]]
 - [[https://greyzhang.blog.csdn.net/article/details/122379714][998_AUTOSAR_TPS_SoftwareComponentTemplate73_ECU抽象层以及复杂驱动]]
 - [[https://greyzhang.blog.csdn.net/article/details/122381452][999_AUTOSAR_TPS_SoftwareComponentTemplate74_服务1]]
+- [[https://greyzhang.blog.csdn.net/article/details/122382350][1000_AUTOSAR_TPS_SoftwareComponentTemplate75_快速原型]]
