@@ -367,3 +367,5 @@
 ** AUTOSAR_TPS_StandardizationTemplate
 - [[https://greyzhang.blog.csdn.net/article/details/122385317][1002_AUTOSAR_TPS_StandardizationTemplate1_跟踪、生命周期以及蓝图]]
 - [[https://greyzhang.blog.csdn.net/article/details/122386228][1003_AUTOSAR_TPS_StandardizationTemplate2_蓝图2]]
+** 1004_AUTOSAR_TPS_SystemTemplate
+- [[https://greyzhang.blog.csdn.net/article/details/122397333][1004_AUTOSAR_TPS_SystemTemplate_阅读笔记1]]
