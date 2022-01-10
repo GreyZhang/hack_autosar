@@ -369,3 +369,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122386228][1003_AUTOSAR_TPS_StandardizationTemplate2_蓝图2]]
 ** 1004_AUTOSAR_TPS_SystemTemplate
 - [[https://greyzhang.blog.csdn.net/article/details/122397333][1004_AUTOSAR_TPS_SystemTemplate_阅读笔记1]]
+- [[https://greyzhang.blog.csdn.net/article/details/122420219][1005_AUTOSAR_TPS_SystemTemplate_阅读笔记2]]
