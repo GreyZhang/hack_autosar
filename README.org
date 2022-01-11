@@ -373,3 +373,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122420946][1006_AUTOSAR_TPS_SystemTemplate_阅读笔记3]]
 - [[https://greyzhang.blog.csdn.net/article/details/122421545][1007_AUTOSAR_TPS_SystemTemplate_阅读笔记4]]
 - [[https://greyzhang.blog.csdn.net/article/details/122423217][1008_AUTOSAR_TPS_SystemTemplate_阅读笔记5]]
+- [[https://greyzhang.blog.csdn.net/article/details/122443382][1010_AUTOSAR_TPS_SystemTemplate_阅读笔记6]]
