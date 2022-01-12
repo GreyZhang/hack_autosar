@@ -379,3 +379,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122463495][1017_AUTOSAR_TPS_SystemTemplate_学习笔记9]]
 ** AUTOSAR_TPS_TimingExtensions
 - [[https://greyzhang.blog.csdn.net/article/details/122464503][1018_AUTOSAR_TPS_TimingExtensions_时序扩展学习笔记1]]
+- [[https://greyzhang.blog.csdn.net/article/details/122464943][1019_AUTOSAR_TPS_TimingExtensions_学习笔记2]]
