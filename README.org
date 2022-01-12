@@ -380,3 +380,4 @@
 ** AUTOSAR_TPS_TimingExtensions
 - [[https://greyzhang.blog.csdn.net/article/details/122464503][1018_AUTOSAR_TPS_TimingExtensions_时序扩展学习笔记1]]
 - [[https://greyzhang.blog.csdn.net/article/details/122464943][1019_AUTOSAR_TPS_TimingExtensions_学习笔记2]]
+- [[https://greyzhang.blog.csdn.net/article/details/122466168][1020_AUTOSAR_RS_InteractionWithBehavioralModels学习笔记]]
