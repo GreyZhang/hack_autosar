@@ -387,3 +387,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122484467][1022_AUTOSAR_RS_InteroperabilityOfAutosarTools_学习笔记2]]
 ** AUTOSAR_TR_InteractionWithBehavioralModels
 - [[https://greyzhang.blog.csdn.net/article/details/122485068][1024_AUTOSAR_TR_InteractionWithBehavioralModels_学习笔记1]]
+- [[https://greyzhang.blog.csdn.net/article/details/122503532][1026_AUTOSAR_TR_InteractionWithBehavioralModels_学习笔记2]]
