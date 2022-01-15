@@ -393,3 +393,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122504165][1028_AUTOSAR_TR_InteroperabilityOfAutosarTools_学习笔记1]]
 - [[https://greyzhang.blog.csdn.net/article/details/122504683][1030_AUTOSAR_TR_InteroperabilityOfAutosarTools_学习笔记2]]
 - [[https://greyzhang.blog.csdn.net/article/details/122505681][1031_AUTOSAR_TR_InteroperabilityOfAutosarTools_学习笔记3]]
+- [[https://greyzhang.blog.csdn.net/article/details/122506314][1032_AUTOSAR_TR_InteroperabilityOfAutosarTools_学习笔记4]]
