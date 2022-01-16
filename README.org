@@ -403,3 +403,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122513147][1039_AUTOSAR_EXP_ApplicationLevelErrorHandling_学习笔记6]]
 - [[https://greyzhang.blog.csdn.net/article/details/122521100][1041_AUTOSAR_EXP_ApplicationLevelErrorHandling_学习笔记7]]
 - [[https://greyzhang.blog.csdn.net/article/details/122523178][1043_AUTOSAR_EXP_ApplicationLevelErrorHandling_学习笔记8]]
+** AUTOSAR_EXP_BSWDistributionGuide
+- [[https://greyzhang.blog.csdn.net/article/details/122524093][1044_AUTOSAR_EXP_BSWDistributionGuide_学习笔记1]]
