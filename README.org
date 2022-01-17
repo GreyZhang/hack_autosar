@@ -410,5 +410,6 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122528191][1048_AUTOSAR_EXP_BSWDistributionGuide_学习笔记4]]
 - [[https://greyzhang.blog.csdn.net/article/details/122547037][1050_AUTOSAR_EXP_BSWDistributionGuide_学习笔记5]]
 - [[https://greyzhang.blog.csdn.net/article/details/122547641][1051_AUTOSAR_EXP_BSWDistributionGuide_学习笔记6]]
+** AUTOSAR_EXP_CDDDesignAndIntegrationGuideline
 - [[https://greyzhang.blog.csdn.net/article/details/122548177][1052_AUTOSAR_EXP_CDDDesignAndIntegrationGuideline_学习笔记1]]
 - [[https://greyzhang.blog.csdn.net/article/details/122548561][1053_AUTOSAR_EXP_CDDDesignAndIntegrationGuideline_学习笔记2]]
