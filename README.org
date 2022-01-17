@@ -413,4 +413,6 @@
 ** AUTOSAR_EXP_CDDDesignAndIntegrationGuideline
 - [[https://greyzhang.blog.csdn.net/article/details/122548177][1052_AUTOSAR_EXP_CDDDesignAndIntegrationGuideline_学习笔记1]]
 - [[https://greyzhang.blog.csdn.net/article/details/122548561][1053_AUTOSAR_EXP_CDDDesignAndIntegrationGuideline_学习笔记2]]
+** AUTOSAR_EXP_ErrorDescription
 - [[https://greyzhang.blog.csdn.net/article/details/122549323][1054_AUTOSAR_EXP_ErrorDescription_学习笔记1]]
+- [[https://greyzhang.blog.csdn.net/article/details/122550554][1055_AUTOSAR_EXP_ErrorDescription_学习笔记2]]
