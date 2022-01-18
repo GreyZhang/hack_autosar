@@ -416,3 +416,4 @@
 ** AUTOSAR_EXP_ErrorDescription
 - [[https://greyzhang.blog.csdn.net/article/details/122549323][1054_AUTOSAR_EXP_ErrorDescription_学习笔记1]]
 - [[https://greyzhang.blog.csdn.net/article/details/122550554][1055_AUTOSAR_EXP_ErrorDescription_学习笔记2]]
+- [[https://blog.csdn.net/grey_csdn/article/details/122570741][1057_AUTOSAR_EXP_InterruptHandlingExplanation_文档学习]]
