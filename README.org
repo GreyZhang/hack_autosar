@@ -418,3 +418,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122550554][1055_AUTOSAR_EXP_ErrorDescription_学习笔记2]]
 ** AUTOSAR_EXP_InterruptHandlingExplanation
 - [[https://blog.csdn.net/grey_csdn/article/details/122570741][1057_AUTOSAR_EXP_InterruptHandlingExplanation_文档学习]]
+- [[https://blog.csdn.net/grey_csdn/article/details/122612017][1058_AUTOSAR_EXP_LayeredSoftwareArchitecture_学习笔记1]]
