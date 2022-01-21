@@ -424,3 +424,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122630034][1060_AUTOSAR_EXP_LayeredSoftwareArchitecture_学习笔记3]]
 - [[https://greyzhang.blog.csdn.net/article/details/122630494][1061_AUTOSAR_EXP_LayeredSoftwareArchitecture_学习笔记4]]
 - [[https://greyzhang.blog.csdn.net/article/details/122630827][1062_AUTOSAR_EXP_LayeredSoftwareArchitecture_学习笔记5]]
+- [[https://greyzhang.blog.csdn.net/article/details/122631203][1063_AUTOSAR_EXP_LayeredSoftwareArchitecture_学习笔记6]]
