@@ -428,3 +428,4 @@
 ** AUTOSAR_SRS_BSWGeneral
 - [[https://greyzhang.blog.csdn.net/article/details/122633571][1064_AUTOSAR_SRS_BSWGeneral_学习笔记1]]
 - [[https://greyzhang.blog.csdn.net/article/details/122635414][1065_AUTOSAR_SRS_BSWGeneral_学习笔记2]]
+- [[https://greyzhang.blog.csdn.net/article/details/122637394][1066_AUTOSAR_SRS_BSWGeneral_学习笔记3]]
