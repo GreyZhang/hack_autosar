@@ -427,3 +427,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122631203][1063_AUTOSAR_EXP_LayeredSoftwareArchitecture_学习笔记6]]
 ** AUTOSAR_SRS_BSWGeneral
 - [[https://greyzhang.blog.csdn.net/article/details/122633571][1064_AUTOSAR_SRS_BSWGeneral_学习笔记1]]
+- [[https://greyzhang.blog.csdn.net/article/details/122635414][1065_AUTOSAR_SRS_BSWGeneral_学习笔记2]]
