@@ -441,3 +441,5 @@
 ** AUTOSAR_SWS_CompilerAbstraction
 - [[https://greyzhang.blog.csdn.net/article/details/122652870][1077_AUTOSAR_SWS_CompilerAbstraction_学习笔记1]]
 - [[https://greyzhang.blog.csdn.net/article/details/122653425][1078_AUTOSAR_SWS_CompilerAbstraction_学习笔记2]]
+** AUTOSAR_SWS_MemoryMapping
+- [[https://greyzhang.blog.csdn.net/article/details/122653785][1079_AUTOSAR_SWS_MemoryMapping_学习笔记1]]
