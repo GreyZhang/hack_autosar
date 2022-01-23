@@ -433,3 +433,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122641481][1070_AUTOSAR_TR_BSWModuleList_基础软件模块清单]]
 ** AUTOSAR_TR_BSWUMLModelModelingGuide
 - [[https://greyzhang.blog.csdn.net/article/details/122641742][1071_AUTOSAR_TR_BSWUMLModelModelingGuide_UML建模指南]]
+** AUTOSAR_SWS_BSWGeneral
+- [[https://greyzhang.blog.csdn.net/article/details/122647314][1072_AUTOSAR_SWS_BSWGeneral_学习笔记1]]
