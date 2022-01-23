@@ -435,3 +435,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122641742][1071_AUTOSAR_TR_BSWUMLModelModelingGuide_UML建模指南]]
 ** AUTOSAR_SWS_BSWGeneral
 - [[https://greyzhang.blog.csdn.net/article/details/122647314][1072_AUTOSAR_SWS_BSWGeneral_学习笔记1]]
+- [[https://greyzhang.blog.csdn.net/article/details/122647607][1073_AUTOSAR_SWS_BSWGeneral_学习笔记2]]
