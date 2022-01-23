@@ -444,3 +444,5 @@
 ** AUTOSAR_SWS_MemoryMapping
 - [[https://greyzhang.blog.csdn.net/article/details/122653785][1079_AUTOSAR_SWS_MemoryMapping_学习笔记1]]
 - [[https://greyzhang.blog.csdn.net/article/details/122654270][1080_AUTOSAR_SWS_MemoryMapping_学习笔记2]]
+** AUTOSAR_SWS_PlatformTypes
+- [[https://greyzhang.blog.csdn.net/article/details/122654642][1081_AUTOSAR_SWS_PlatformTypes]]
