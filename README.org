@@ -438,3 +438,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122647607][1073_AUTOSAR_SWS_BSWGeneral_学习笔记2]]
 ** AUTOSAR_SWS_StandardTypes
 - [[https://greyzhang.blog.csdn.net/article/details/122649950][1076_AUTOSAR_SWS_StandardTypes]]
+** AUTOSAR_SWS_CompilerAbstraction
+- [[https://greyzhang.blog.csdn.net/article/details/122652870][1077_AUTOSAR_SWS_CompilerAbstraction_学习笔记1]]
