@@ -455,3 +455,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122691507][1087_Software-Architecture_Libraries小结]]
 ** AUTOSAR_SRS_ADCDriver
 - [[https://greyzhang.blog.csdn.net/article/details/122691834][1088_AUTOSAR_SRS_ADCDriver_学习笔记1]]
+- [[https://greyzhang.blog.csdn.net/article/details/122692028][1089_AUTOSAR_SRS_ADCDriver_学习笔记2]]
