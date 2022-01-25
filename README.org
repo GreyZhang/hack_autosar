@@ -451,3 +451,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122677328][1085_AUTOSAR_SRS_Libraries_学习笔记2]]
 ** AUTOSAR_SWS_BFXLibrary
 - [[https://greyzhang.blog.csdn.net/article/details/122677487][1086_AUTOSAR_SWS_BFXLibrary]]
+** Software-Architecture_Libraries
+- [[https://greyzhang.blog.csdn.net/article/details/122691507][1087_Software-Architecture_Libraries小结]]
