@@ -471,3 +471,4 @@
 ** AUTOSAR_SRS_PortDriver
 - [[https://greyzhang.blog.csdn.net/article/details/122709099][1099_AUTOSAR_SRS_PortDriver_学习笔记]]
 - [[https://greyzhang.blog.csdn.net/article/details/122709247][1100_AUTOSAR_SRS_PWMDriver_学习笔记]]
+- [[https://greyzhang.blog.csdn.net/article/details/122724246][1101_AUTOSAR_SRS_SPALGeneral_学习笔记]]
