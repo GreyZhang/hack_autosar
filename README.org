@@ -11,7 +11,7 @@
 - 可以根据增加的正则表达式处理展开一部分编译器抽象部分的宏，简化代码以提高可读性，辅助代码理解。由于不同版本的AUTOSAR以及编译器这方面的定义略有不同，正则表达式需要自己维护。
 - 使用方法，把上面的脚本直接放到代码根目录，cmd中运行 perl autosar2common.pl。
 - 注意：脚本成熟度未知，修改之前做好代码的备份管理。
-- 代码存放未知，本repo下 script_tools 目录。
+- 代码存放位置，本repo下 script_tools 目录。
 * 学习笔记
 ** 整体资料梳理
 - [[https://greyzhang.blog.csdn.net/article/details/118859727][667_AUTOSAR目录框架梳理以及初步的计划]]
